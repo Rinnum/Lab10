@@ -1,2 +1,5 @@
-# Lab10
-1.สร้าง level up 2.สร้างเปลี่ยนฉากแต่ละด่าน 3.มีการยิงแล้วเพิ่ม/ลด point Hp 4.มีเมนู
+# SFMLtemplate
+SFML VS template for anyone who lazy to setup SFML again
+
+After download this thing, open SFMLtemp.sln file and press F5 in Visual Studio.
+I already set everything, 'kay?
